@@ -1,0 +1,5 @@
+{
+  "name": "OptiSnap - Pro Image Converter & Compressor",
+  "description": "A high-performance, client-side image processing tool to convert and compress images directly in your browser with zero server uploads.",
+  "requestFramePermissions": []
+}
